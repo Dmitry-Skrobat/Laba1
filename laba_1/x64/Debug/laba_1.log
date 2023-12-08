@@ -1,0 +1,14 @@
+﻿  laba_1.cpp
+D:\C++\laba_1\laba_1.cpp(25,39): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+D:\C++\laba_1\laba_1.cpp(26,40): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+D:\C++\laba_1\laba_1.cpp(34,27): warning C4018: '<=': signed/unsigned mismatch
+D:\C++\laba_1\laba_1.cpp(55,27): warning C4018: '<=': signed/unsigned mismatch
+D:\C++\laba_1\laba_1.cpp(75,44): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+D:\C++\laba_1\laba_1.cpp(76,30): warning C4018: '<=': signed/unsigned mismatch
+D:\C++\laba_1\laba_1.cpp(96,27): warning C4018: '<=': signed/unsigned mismatch
+D:\C++\laba_1\laba_1.cpp(120,27): warning C4018: '<=': signed/unsigned mismatch
+D:\C++\laba_1\laba_1.cpp(142,44): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+D:\C++\laba_1\laba_1.cpp(144,30): warning C4018: '<=': signed/unsigned mismatch
+D:\C++\laba_1\laba_1.cpp(12,11): warning C4101: 'db': unreferenced local variable
+D:\C++\laba_1\laba_1.cpp(11,10): warning C4101: 'fl': unreferenced local variable
+  laba_1.vcxproj -> D:\C++\laba_1\x64\Debug\laba_1.exe
